@@ -1,0 +1,3 @@
+Recordar que para ejecutar el Angular tanto el servidor se ocupa tener instalado el node js y el npm para poder correrlo
+Para poder subir todo se necesito quitar toda la carpeta de node_modules de las dos carpetas por lo que es importante antes
+de ejecutarlos usar el comando       npm install y una vez que esto termine el      npm start
